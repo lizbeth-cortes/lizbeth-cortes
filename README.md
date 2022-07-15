@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lizbeth</h1>
+<h1 align="center">Hola 👋, soy Lizbeth</h1>
 <h3 align="center">Soy estudiante de Ingeniería en Computación, en la FES ARAGÓN (UNAM))</h3>
 
-- 🌱 I’m currently learning **courses**
+- En este repositorio podrás encontrar algunos proyectos o actividades escolares.
 
-- 📫 How to reach me **ing.lizbeth.cortes@gmail.com**
+- Puedes contactarme mediante mi correo **ing.lizbeth.cortes@gmail.com**
+
+- Todavía sigo aprendiendo muchas cosas, por si notas algunos errores.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
