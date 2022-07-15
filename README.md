@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lizbeth</h1>
-<h3 align="center">Soy estudiante de Ingeniería en Computación, en la FES ARAGÓN (UNAM))</h3>
+<h3 align="center">Soy estudiante de Ingeniería en Computación, en la FES ARAGÓN (UNAM)</h3>
 
 - En este repositorio podrás encontrar algunos proyectos o actividades escolares.
 
