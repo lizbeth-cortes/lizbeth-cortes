@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Lizbeth
+<h1 align="center">Hola, soy Lizbeth
  <p align="center"> <img align="center" src="https://c.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" height="110" width="110" /> </p> </h1>
 <h3 align="center">Soy estudiante de Ingeniería en Computación, en la FES ARAGÓN (UNAM)</h3>
 
