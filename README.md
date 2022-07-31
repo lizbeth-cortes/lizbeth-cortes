@@ -18,7 +18,7 @@
 
 <h3 align="left">Desarrollo front-end: </h3>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://lenguajehtml.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 
 <h3 align="left">Base de datos: </h3>
