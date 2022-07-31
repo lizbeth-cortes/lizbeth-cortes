@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy Lizbeth</h1>
+![hello](https://user-images.githubusercontent.com/60724433/182010264-18ad5f3e-b2f7-4131-95a1-fe789795b213.gif)
 <h3 align="center">Soy estudiante de Ingeniería en Computación, en la FES ARAGÓN (UNAM)</h3>
 
 - En este repositorio podrás encontrar algunos proyectos o actividades escolares.
