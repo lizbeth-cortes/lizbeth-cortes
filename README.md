@@ -9,7 +9,7 @@
 - Todavía sigo aprendiendo muchas cosas, por si notas algunos errores.
 
 <h3 align="left">Redes sociales </h3>
-<p align="left">
+<p>
 <a href="https://twitter.com/liz_cortes_" target="blank" rel="noopener noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liz_cortes_" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/lizbeth-cortes-leon/" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" alt="linkedin" height="40" width="40" /></a>
 </p>
